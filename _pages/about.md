@@ -35,8 +35,6 @@ redirect_from:
 <div class="page-meta" style="font-size:0.9rem;color:#777;margin-bottom:0.5rem;text-align:center;">
   Last updated:
   {{ page.last_modified_at | default: page.date | date: "%Y-%m-%d" }}
-  · Page views:
-  <span id="busuanzi_value_page_pv">loading...</span>
 </div>
 
 
@@ -52,6 +50,10 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jia
 
 <!--
 https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
+
+  · Page views:
+  <span id="busuanzi_value_page_pv">loading...</span>
+
 -->
 
 
