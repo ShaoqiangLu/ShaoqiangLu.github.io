@@ -112,10 +112,10 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
 - *2025.11*: &nbsp;🏅 1st Prize, the Build Your Dreams (BYD) Scholarship, Shanghai Jiao Tong University — Rank 3/160, <!--¥20000 RMB https://icisee.sjtu.edu.cn/xsgz-gzzd-xssw/2896.html--> 
 - *2021.12*: &nbsp;🥉 3rd Prize, the [4th "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/QNniK5mCp-8QDefy76pcvw?click_id=3), Special Second Prize GalaxyCore Technology Co., Ltd — Rank 50/499, <!--¥5000 RMB-->
-- *2021.7*: &nbsp;🏅 3rd Prize, the [5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition](https://mp.weixin.qq.com/s/YmRTIPAixgHDdzAKwW1xrA)— Northwest Region, Rank 57/180
+- *2021.07*: &nbsp;🏅 3rd Prize, the [5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition](https://mp.weixin.qq.com/s/YmRTIPAixgHDdzAKwW1xrA)— Northwest Region, Rank 57/180
 - *2020.10*: &nbsp;🥈 2nd Prize, the [3rd "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/AwZsIw1SNVQMaqknOuSJHg?click_id=2), Special First Prize S2C Technology Co., Ltd — Rank 24/453, <!--¥18000 RMB-->
-- *2020.9*: &nbsp;🏅 1st Prize (twice), 2nd Prize (once), Study Excellence Scholarship for Master’s Degree Candidates, Xidian University — Rank 4/188, <!--¥8000 RMB https://sme.xidian.edu.cn/html/tzgg/jx/2021/1125/1673.html-->
-<!-- - *2019.7*: &nbsp;🎖️ Excellent Graduate Student Cadre Honor (thrice) and Outstanding Student Class Monitor (twice), Xidian University-->
+- *2020.09*: &nbsp;🏅 1st Prize (twice), 2nd Prize (once), Study Excellence Scholarship for Master’s Degree Candidates, Xidian University — Rank 4/188, <!--¥8000 RMB https://sme.xidian.edu.cn/html/tzgg/jx/2021/1125/1673.html-->
+<!-- - *2019.07*: &nbsp;🎖️ Excellent Graduate Student Cadre Honor (thrice) and Outstanding Student Class Monitor (twice), Xidian University-->
 <!--https://mp.weixin.qq.com/s/WkrwyTyQpA5vGbMlmOAL_Q-->
 
 
