@@ -155,7 +155,7 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
 
 
 
-- [3]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-B </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2025</span> MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models. **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Yangbo Wei<sup style="color: black;">*</sup>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.
+- [3]  <span style="background-color: #F05E22; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-B </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2025</span> MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models. **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Yangbo Wei<sup style="color: black;">*</sup>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="https://ieeexplore.ieee.org/document/11240807" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -163,6 +163,7 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
       onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
   </a>
   <!--
+  darkorange
   <a href="_pages/paper/ASP-DAC2024.bib" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
       onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
@@ -171,7 +172,7 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
   -->
 </div>
 
-- [4]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-B </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">TRETS Journal 2025,ISEDA 2024</span> MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models. **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Tiandong Zhao<sup style="color: black;">*</sup>, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.
+- [4]  <span style="background-color: #F05E22; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-B </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">TRETS Journal 2025,ISEDA 2024</span> MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models. **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Tiandong Zhao<sup style="color: black;">*</sup>, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="https://dl.acm.org/doi/10.1145/3742437" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -192,7 +193,7 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
   -->
 </div>
 
-- [5]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-B </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2024</span> ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity. Tiandong Zhao, **<u>Shaoqiang Lu</u>**, Chen Wu, Lei He.
+- [5]  <span style="background-color: #F05E22; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-B </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2024</span> ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity. Tiandong Zhao, **<u>Shaoqiang Lu</u>**, Chen Wu, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="https://dl.acm.org/doi/10.1145/3676536.3676761" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
