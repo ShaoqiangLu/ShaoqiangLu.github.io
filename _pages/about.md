@@ -282,7 +282,7 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
 </div>
 
 
-- [9]  <span style="background-color: magenta; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-A </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">AAAI 2026</span> Mixture-of-Trees: Learning to Select and Weigh Reasoning Paths for Efficient LLM Inference. Yangbo Wei, Zhen huang, **<u>Shaoqiang Lu</u>**, Junhong Qian, Dongge Qin, Ting Jung Lin, WEI W. XING, Chen Wu, Lei He.
+- [9]  <span style="background-color: magenta; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-A </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">AAAI 2026</span> Mixture-of-Trees: Learning to Select and Weigh Reasoning Paths for Efficient LLM Inference. Yangbo Wei, Zhen huang, **<u>Shaoqiang Lu</u>**, Junhong Qian, Dongge Qin, Ting Jung Lin, Wei Xing, Chen Wu, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="javascript:void(0);" style="pointer-events: none; text-decoration: none;">
     <button style="border: 1px solid #ccc; color: #999; background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px; cursor: not-allowed; font-size: 12px;">
