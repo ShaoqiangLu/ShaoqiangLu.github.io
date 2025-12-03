@@ -32,12 +32,13 @@ redirect_from:
 
 <!--<h2 id="homepage" class="section-title">🏠 Homepage</h2>-->
 
-<div class="page-meta" style="font-size:0.9rem;color:#777;margin-bottom:0.5rem;text-align:right;">
+<div class="page-meta" style="font-size:0.9rem;color:#777;margin-bottom:0.5rem;text-align:center;">
   Last updated:
   {{ page.last_modified_at | default: page.date | date: "%Y-%m-%d" }}
   · Page views:
   <span id="busuanzi_value_page_pv">loading...</span>
 </div>
+
 
 
 <hr style="border: 2px solid #cccccc; margin: 12px 0;">
