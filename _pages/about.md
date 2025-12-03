@@ -210,7 +210,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jia
 </div>
 
 
-- [6]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASAP 2025</span> <span style="color:red;">(Best Paper Nomination)</span>METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA. Zicheng He, **<u>Shaoqiang Lu</u>**, Tiandong Zhao, Chen Wu, Lei He.
+- [6]  <span style="background-color: dodgerblue; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASAP 2025</span> <span style="color:red;">(Best Paper Nomination)</span>METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA. Zicheng He, **<u>Shaoqiang Lu</u>**, Tiandong Zhao, Chen Wu, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="https://ieeexplore.ieee.org/document/11113558" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -232,7 +232,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jia
 </div>
 
 
-- [7]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASP-DAC 2026</span> dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models. Yangbo Wei<sup style="color: black;">*</sup>, **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Junhong Qian, Chen Wu, Xiao Shi, Lei He.
+- [7]  <span style="background-color: dodgerblue; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ASP-DAC 2026</span> dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models. Yangbo Wei<sup style="color: black;">*</sup>, **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Junhong Qian, Chen Wu, Xiao Shi, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="javascript:void(0);" style="pointer-events: none; text-decoration: none;">
     <button style="border: 1px solid #ccc; color: #999; background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px; cursor: not-allowed; font-size: 12px;">
@@ -255,7 +255,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jia
 
 
 
-- [8]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">FPT 2026</span> FlightOPU: An FPGA Overlay Processor for LLM with HBM-Aware Multi-Die Architecture. Chen Wu, **<u>Shaoqiang Lu</u>**, Yangbo Wei, Junhong Qian, Jinlong Yan, Zhanfei Chen, Rumin Zhang, Xiao Shi, Lei He.
+- [8]  <span style="background-color: dodgerblue; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">FPT 2026</span> FlightOPU: An FPGA Overlay Processor for LLM with HBM-Aware Multi-Die Architecture. Chen Wu, **<u>Shaoqiang Lu</u>**, Yangbo Wei, Junhong Qian, Jinlong Yan, Zhanfei Chen, Rumin Zhang, Xiao Shi, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="javascript:void(0);" style="pointer-events: none; text-decoration: none;">
     <button style="border: 1px solid #ccc; color: #999; background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px; cursor: not-allowed; font-size: 12px;">
@@ -299,7 +299,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jia
 </div>
 
 
-- [10]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">FPL 2023</span> Token Packing for Transformers with Variable-Length Inputs. Tiandong Zhao, Siyuan Miao, **<u>Shaoqiang Lu</u>**, Jialin Cao, Jun Qiu, Xiao Shi, Kun Wang, Lei He.
+- [10]  <span style="background-color: dodgerblue; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">FPL 2023</span> Token Packing for Transformers with Variable-Length Inputs. Tiandong Zhao, Siyuan Miao, **<u>Shaoqiang Lu</u>**, Jialin Cao, Jun Qiu, Xiao Shi, Kun Wang, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="https://ieeexplore.ieee.org/document/10296372" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
@@ -321,7 +321,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jia
 </div>
 
 
-- [11]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">FCCM 2025</span> C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers. Siyuan Miao, Lingkang Zhu, Chen Wu, **<u>Shaoqiang Lu</u>**, Jinming Lyu, Lei He.
+- [11]  <span style="background-color: dodgerblue; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">FCCM 2025</span> C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers. Siyuan Miao, Lingkang Zhu, Chen Wu, **<u>Shaoqiang Lu</u>**, Jinming Lyu, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="https://ieeexplore.ieee.org/document/11008948" style="text-decoration: none;">
     <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
