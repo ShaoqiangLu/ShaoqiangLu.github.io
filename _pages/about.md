@@ -156,10 +156,10 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jia
 
 - [3]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-B </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ICCAD 2025</span> MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models. **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Yangbo Wei<sup style="color: black;">*</sup>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
-  <a href="javascript:void(0);" style="pointer-events: none; text-decoration: none;">
-    <button style="border: 1px solid #ccc; color: #999; background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px; cursor: not-allowed; font-size: 12px;">
-      PDF
-    </button>
+  <a href="https://ieeexplore.ieee.org/document/11240807" style="text-decoration: none;">
+    <button style="border: 1px solid #007BFF; color: #007BFF; background-color: white; padding: 2px 6px; border-radius: 4px; cursor: pointer; font-size: 12px;"
+      onmouseover="this.style.backgroundColor='#007BFF'; this.style.color='white';"
+      onmouseout="this.style.backgroundColor='white'; this.style.color='#007BFF';">PDF</button>
   </a>
   <!--
   <a href="_pages/paper/ASP-DAC2024.bib" style="text-decoration: none;">
