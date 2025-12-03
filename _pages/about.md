@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+last_modified_at: 2025-12-04
 redirect_from: 
   - /about/
   - /about.html
@@ -31,6 +32,12 @@ redirect_from:
 
 <!--<h2 id="homepage" class="section-title">🏠 Homepage</h2>-->
 
+<div class="page-meta" style="font-size:0.9rem;color:#777;margin-bottom:0.5rem;">
+  Last updated:
+  {{ page.last_modified_at | default: page.date | date: "%Y-%m-%d" }}
+  · Page views:
+  <span id="busuanzi_value_page_pv">loading...</span>
+</div>
 
 <hr style="border: 2px solid #cccccc; margin: 12px 0;">
 <h2 id="about-me" class="section-title"
@@ -46,6 +53,7 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
 -->
 
 
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 <div style="margin-top: 10px;">
   <a href="https://github.com/ShaoqiangLu"
@@ -54,6 +62,10 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
     📄 Download CV
   </a>
 </div>
+
+
+
+
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
   <div style="flex: 1; margin-right: 1px;">
