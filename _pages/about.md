@@ -255,7 +255,7 @@ I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jia
 
 
 
-- [8]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">FPT 2025</span> FlightOPU: An FPGA Overlay Processor for LLM with HBM-Aware Multi-Die Architecture. Chen Wu, **<u>Shaoqiang Lu</u>**, Yangbo Wei, Junhong Qian, Jinlong Yan, Zhanfei Chen, Rumin Zhang, Xiao Shi, Lei He.
+- [8]  <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">FPT 2026</span> FlightOPU: An FPGA Overlay Processor for LLM with HBM-Aware Multi-Die Architecture. Chen Wu, **<u>Shaoqiang Lu</u>**, Yangbo Wei, Junhong Qian, Jinlong Yan, Zhanfei Chen, Rumin Zhang, Xiao Shi, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   <a href="javascript:void(0);" style="pointer-events: none; text-decoration: none;">
     <button style="border: 1px solid #ccc; color: #999; background-color: #f5f5f5; padding: 2px 6px; border-radius: 4px; cursor: not-allowed; font-size: 12px;">
