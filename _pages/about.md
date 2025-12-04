@@ -46,9 +46,10 @@ redirect_from:
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 7px 0;">
 
-I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jiao Tong University (SJTU), since September 2022, under the supervision of [Prof. Lei He (IEEE Fellow)](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en). I am also a research intern at the Eastern Institute of Technology (EIT), Ningbo. Prior to that, I obtained my M.S. degree from Xidian University, supervised by <u>Prof. Kang Li</u>.
+I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jiao Tong University (SJTU), since September 2022, under the supervision of [Prof. Lei He (IEEE Fellow)](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en). I am also a research intern at the Eastern Institute of Technology (EIT), Ningbo. Prior to that, I obtained my M.S. degree from Xidian University.
 
 <!--
+, supervised by <u>Prof. Kang Li</u>
 https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
 
   · Page views:
