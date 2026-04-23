@@ -174,7 +174,8 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
   </a>
 </div>
 
-- [5]   <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> EI-indexed </span> <span style="background-color: rgb(245, 245, 245); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;"> ISEDA 2024</span> An FPGA-based Multi-Core Overlay Processor for Transformer-based Models. **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Tiandong Zhao<sup style="color: black;">*</sup>, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.
+
+- [5]   <span style="background-color: darkorange; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> EI-indexed </span> <span style="background-color: rgb(240, 240, 240); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;"> ISEDA 2024</span> An FPGA-based Multi-Core Overlay Processor for Transformer-based Models. **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Tiandong Zhao<sup style="color: black;">*</sup>, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   
   <a href="https://dl.acm.org/doi/10.1145/3742437" style="text-decoration: none;">
