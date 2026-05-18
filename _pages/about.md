@@ -175,7 +175,7 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
 </div>
 
 
-- [5]  <span style="background-color: darkgray; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-B </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ISEDA 2024</span> MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models. **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Tiandong Zhao<sup style="color: black;">*</sup>, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.
+- [5]  <span style="background-color: darkgray; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> EI  </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ISEDA 2024</span> MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models. **<u>Shaoqiang Lu<sup style="color: black;">*</sup></u>**, Tiandong Zhao<sup style="color: black;">*</sup>, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   
   <a href="https://dl.acm.org/doi/10.1145/3742437" style="text-decoration: none;">
@@ -255,7 +255,7 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
 </div>
 
 
-- [12]  <span style="background-color: green; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-C </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ISCAS 2026</span> Harnessing Spatiotemporal Redundancy for Fast Diffusion Models on FPGA. Dongge Qin, Junhong Qian, **<u>Shaoqiang Lu</u>**, Yangbo Wei, Ruizhe Deng, Xiao Shi, Chen Wu, Longxing Shi, Lei He.
+- [12]  <span style="background-color: green; color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-right: 4px;"> CCF-B </span> <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">ISCAS 2026</span> Harnessing Spatiotemporal Redundancy for Fast Diffusion Models on FPGA. Dongge Qin, Junhong Qian, **<u>Shaoqiang Lu</u>**, Yangbo Wei, Ruizhe Deng, Xiao Shi, Chen Wu, Longxing Shi, Lei He.
 <div style="margin-top: -15px; margin-bottom: 10px; margin-left: 30px;">
   
   <a href="bottom(0)" style="text-decoration: none;">
