@@ -46,7 +46,7 @@ redirect_from:
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 7px 0;">
 
-I have been a Ph.D. candidate at the School of Integrated Circuits, Shanghai Jiao Tong University (SJTU), since September 2022, under the supervision of [Prof. Lei He (IEEE Fellow)](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en). I am also a research intern at the Eastern Institute of Technology (EIT), Ningbo. I obtained my B.S. and M.S. degrees in integrated circuit design at Xidian University.
+I received my Ph.D. degree from Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Lei He (IEEE Fellow)](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en). I am also a research intern at the Eastern Institute of Technology (EIT), Ningbo. I obtained my B.S. and M.S. degrees from Xidian University.
 
 <!--
 Before that, I earned consecutive B.S. and M.S. degrees in integrated circuit design at Xidian University.
@@ -79,11 +79,11 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
   <div style="flex: 1; margin-right: 1px;">
     <h2>🎯 Research Interests</h2>
     <ul>
-      <li>Digital IC Design for AI Chips</li>
-      <li>Hardware/Software Co-Optimization</li>
-      <li>AI Compiler Development</li>
-      <li>FPGA-Based Accelerator</li>
-      <li>AI Models:Llama,dLLM,Mamba,VLA</li>
+      <li>Design</li>
+      <li>Optimization</li>
+      <li>Development</li>
+      <li>Hardwar</li>
+      <li>Models</li>
     </ul>
   </div>
 
@@ -91,16 +91,16 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
     <h2>🎓 Education</h2>
     <ul>
       <li>
-        <strong>Shanghai Jiao Tong University</strong> (2022.09 – 2026.06)<br>
-        <em>Ph.D. in Integrated Circuits Engineering</em>
+        <strong>Shanghai Jiao Tong University</strong><br>
+        <em>Ph.D. (2022.09 – 2026.06)</em>
       </li>
       <li>
-        <strong>Xidian University</strong> (2019.09 – 2022.06)<br>
-        <em>Master’s in Integrated Circuit Design</em>
+        <strong>Xidian University</strong><br>
+        <em>Master (2019.09 – 2022.06)</em>
       </li>
       <li>
-        <strong>Xidian University</strong> (2015.09 – 2019.06)<br>
-        <em>Bachelor’s in Integrated Circuit Design and Systems</em>
+        <strong>Xidian University</strong><br>
+        <em>Bachelor (2015.09 – 2019.06)</em>
       </li>
     </ul>
   </div>
@@ -114,6 +114,9 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
   🏆 Awards
 </h2>
 <hr style="border: 2px solid #cccccc; margin: 6px 0;">
+- *2026.06*: &nbsp;🏅 , Outstanding Graduate of the Class of 2026, Shanghai Jiao Tong University.
+
+<!--
 - *2025.11*: &nbsp;🏅 1st Prize, the Build Your Dreams (BYD) Scholarship, Shanghai Jiao Tong University — Rank 3/160, <!--¥20000 RMB https://icisee.sjtu.edu.cn/xsgz-gzzd-xssw/2896.html--> 
 - *2021.12*: &nbsp;🥉 3rd Prize, the [4th "Huawei Cup" China Graduate Chip Innovation Competition](https://mp.weixin.qq.com/s/QNniK5mCp-8QDefy76pcvw?click_id=3), Special Second Prize GalaxyCore Technology Co., Ltd — Rank 50/499, <!--¥5000 RMB-->
 - *2021.07*: &nbsp;🏅 3rd Prize, the [5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition](https://mp.weixin.qq.com/s/YmRTIPAixgHDdzAKwW1xrA)— Northwest Region, Rank 57/180
@@ -121,7 +124,7 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
 - *2020.09*: &nbsp;🏅 1st Prize (twice), 2nd Prize (once), Study Excellence Scholarship for Master’s Degree Candidates, Xidian University — Rank 4/188, <!--¥8000 RMB https://sme.xidian.edu.cn/html/tzgg/jx/2021/1125/1673.html-->
 <!-- - *2019.07*: &nbsp;🎖️ Excellent Graduate Student Cadre Honor (thrice) and Outstanding Student Class Monitor (twice), Xidian University-->
 <!--https://mp.weixin.qq.com/s/WkrwyTyQpA5vGbMlmOAL_Q-->
-
+-->
 
 <span id="publications" class="anchor-offset"></span>
 <hr style="border: 2px solid #cccccc; margin: 4px 0;">
@@ -291,6 +294,12 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
 
 </div>
 
+
+
+
+
+
+<!--
 <span id="projects" class="anchor-offset"></span>
 <hr style="border: 2px solid #cccccc; margin: 4px 0;">
 <h2>
@@ -455,6 +464,6 @@ https://faculty.xidian.edu.cn/LK4/zh_CN/index/348597/list/index.htm
 ![MoE](https://raw.githubusercontent.com/ShaoqiangLu/ShaoqiangLu/de8b4fd16601343d67a56b56c8d787636949b653/fig/MoE.png)  
 
 ---
-
+-->
 
 
